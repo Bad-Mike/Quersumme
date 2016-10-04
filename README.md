@@ -1,0 +1,2 @@
+# Quersumme
+Java: learn modulo
